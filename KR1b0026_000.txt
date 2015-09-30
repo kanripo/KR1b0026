@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 書纂言
-#+DATE: 2015-09-23 09:36:04
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:02:34.410076
+#+PROPERTY: ID KR1b0026
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1b0026_WYG_000-1a>¶
 欽定四庫全書　　　　經部二¶
 　書纂言　　　　　　　書𩔖¶
@@ -29,6 +31,7 @@
 　　　　所短可矣乾隆四十二年三月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 目録
 <pb:KR1b0026_WYG_000-3a>¶
 書今文¶
 　虞書¶
@@ -223,4 +226,3 @@
 　　　書而小序各冠篇首者復合為一以寘諸後孔¶
 　　　氏序并附焉而因及其所可疑非澄之私言也¶
 　　　聞之先儒云耳¶
-

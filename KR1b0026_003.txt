@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 書纂言
-#+DATE: 2015-09-23 09:36:04
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:02:34.502659
+#+PROPERTY: ID KR1b0026
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1b0026_WYG_003-1a>¶
 欽定四庫全書¶
 　書纂言卷三　　　　　　元　吳澄　&KR0103;¶
@@ -614,4 +616,3 @@
 　¶
 　¶
 　書纂言卷三¶
-

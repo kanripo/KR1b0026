@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 書纂言
-#+DATE: 2015-09-23 09:36:04
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:02:34.432729
+#+PROPERTY: ID KR1b0026
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1b0026_WYG_001-1a>¶
 欽定四庫全書¶
 　書纂言卷一　　　　　　　元　呉澄　撰¶
@@ -1352,4 +1354,3 @@
 　¶
 　¶
 　書纂言卷一¶
-
